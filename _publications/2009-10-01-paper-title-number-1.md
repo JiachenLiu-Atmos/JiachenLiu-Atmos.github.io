@@ -7,5 +7,6 @@ date: 2024-04-26
 venue: 'Sciences Advances'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://www.science.org/doi/epdf/10.1126/sciadv.ado2515'
-#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Liu, J., Yang, J., Ding, F., Chen, G. & Hu, Y. Hydrologic cycle weakening in hothouse climates. Sci. Adv. 10, eado2515 (2024).'
 ---
+
