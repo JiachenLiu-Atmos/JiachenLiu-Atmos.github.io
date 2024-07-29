@@ -16,15 +16,15 @@ Starting this February, I have been a visiting PhD student at MPIA, where I shif
 
 News
 ======
-April 2024: My second first-author paper is out at Science Advances. Typically, people think that higher temperature indicates higher surface precipitation on Earth. However, [in our work](https://www.science.org/doi/10.1126/sciadv.ado2515), we show that this trend reverses in very hot climates (>~320 K) by using climate models of different complexity. The decreasing of precipitation in hot climates will affect the weathering rate, futher influences the carbon-silicate cycle and the habitability of terrestrial planets near the inner edge of the habitable zone.
+April 2024: My second first-author paper is out at Science Advances. Typically, people think that higher temperature indicates higher surface precipitation on Earth. However, [in our work](https://www.science.org/doi/10.1126/sciadv.ado2515), we show that this trend reverses in very hot climates (>~320 K) by using climate models of different complexity. The decreasing of precipitation in hot climates will affect the weathering rate, further influencing the carbon-silicate cycle and the habitability of terrestrial planets near the inner edge of the habitable zone.
 
 April 2024: I do a PICO [presentation](https://meetingorganizer.copernicus.org/EGU24/EGU24-3504.html) on the reversal of precipitation trend in hot climates at EGU 2024.
 
 February 2024: I arrive at Heidelberg! Start to work on a "real" exoplanet K2-18b.
 
-June 2023: A new paper involving me as a collaborator at Nature Astronomy. [In this work](https://www.nature.com/articles/s41550-023-02015-8), we use a cloud permiting model to simulate the explict convection of 1:1 tidally locked rocky planets orbiting around low-mass stars with high resolution (4 km x 4 km).
+June 2023: A new paper involving me as a collaborator is published in Nature Astronomy. [In this work](https://www.nature.com/articles/s41550-023-02015-8), we use a cloud-permitting model to simulate the explicit convection of 1:1 tidally locked rocky planets orbiting around low-mass stars with high resolution (4 km x 4 km).
 
-April 2023: I give a oral [presentation](https://meetingorganizer.copernicus.org/EGU23/EGU23-2306.html) on the effects of surface gravity at EGU 2023.
+April 2023: I give an oral [presentation](https://meetingorganizer.copernicus.org/EGU23/EGU23-2306.html) on the effects of surface gravity at EGU 2023.
 
 February 2023: My first first-author paper is published in ApJ. [In this work](https://iopscience.iop.org/article/10.3847/1538-4357/aca965), we investigate the effects of surface gravity on water cloud behavior and planetary climate using small-domain cloud-resolving simulations. We also calculate the transmission spectra based on our simulation results to show how gravity and clouds affect the detectability of molecules on Earth-like planets.
 
