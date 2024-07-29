@@ -1,8 +1,7 @@
 ---
 title: "Hydrologic cycle weakening in hothouse climates"
 collection: publications
-permalink: 
-#/publication/2009-10-01-paper-title-number1
+permalink: /publication/2009-10-01-paper-title-number1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-04-26
 venue: 'Sciences Advances'
