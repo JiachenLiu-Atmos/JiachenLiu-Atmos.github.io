@@ -1,50 +1,34 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a PhD student at the Department of Atmospheric and Oceanic Sciences, Peking University. Starting in February 2024, I work as a visiting student at the Max Planck Institute for Astronomy in Heidelberg, Germany.
+Welcome! I am a PhD student at the Department of Atmospheric and Oceanic Sciences, Peking University. As of February 2024, I am working as a visiting student at the Department of Atmospheric Physics of Exoplanet at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany.
+
+I was born and raised in Guangzhou, a city in South China. I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. Subsequently, I pursued my PhD at Peking University, shifting my research focus from Earth to more general Earth-like terrestrial planets. My work involved using climate models of varying complexity to study the habitability of these planets.
+
+Starting this February, I have been a visiting PhD student at MPIA, where I shifted my research focus to a temperate mini-Neptune, K2-18b. I am investigating the chemistry and dynamics of this planet using both 1D and 3D forward models.
 
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+April 2024: My second first-author paper is out at Science Advances. Typically, people think that higher temperature indicates higher surface precipitation on Earth. However, [in our work](https://www.science.org/doi/10.1126/sciadv.ado2515), we show that this trend reverses in very hot climates (>~320 K) by using climate models of different complexity. The decreasing of precipitation in hot climates will affect the weathering rate, futher influences the carbon-silicate cycle and the habitability of terrestrial planets near the inner edge of the habitable zone.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+April 2024: I do a PICO [presentation](https://meetingorganizer.copernicus.org/EGU24/EGU24-3504.html) on the reversal of precipitation trend in hot climates at EGU 2024.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+February 2024: I arrive at Heidelberg! Start to work on a "real" exoplanet K2-18b.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+June 2023: A new paper involving me as a collaborator at Nature Astronomy. [In this work](https://www.nature.com/articles/s41550-023-02015-8), we use a cloud permiting model to simulate the explict convection of 1:1 tidally locked rocky planets orbiting around low-mass stars with high resolution (4 km x 4 km).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+April 2023: I give a oral [presentation](https://meetingorganizer.copernicus.org/EGU23/EGU23-2306.html) on the effects of surface gravity at EGU 2023.
 
-**Markdown generator**
+February 2023: My first first-author paper is published in APJ. [In this work](https://iopscience.iop.org/article/10.3847/1538-4357/aca965), we investigate the effects of surface gravity on water cloud behavior and planetary climate using small-domain cloud-resolving simulations. We also calculate the transmission spectra based on our simulation results to show how gravity and clouds affect the detectability of molecules on Earth-like planets.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+September 2022: A paper involving me is published. [In this work](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL099599), we demonstrate that precipitation is weaker when atmospheric mass is larger for a given surface temperature. Additionally, the rate at which precipitation increases with rising surface temperature is smaller under a larger atmospheric mass compared to a smaller one.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
