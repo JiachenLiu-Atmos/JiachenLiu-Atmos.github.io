@@ -28,7 +28,7 @@ April 2023: I give an oral [presentation](https://meetingorganizer.copernicus.or
 
 February 2023: My first first-author paper is published in ApJ. [In this work](https://iopscience.iop.org/article/10.3847/1538-4357/aca965), we investigate the effects of surface gravity on water cloud behavior and planetary climate using small-domain cloud-resolving simulations. We also calculate the transmission spectra based on our simulation results to show how gravity and clouds affect the detectability of molecules on Earth-like planets.
 
-September 2022: A paper involving me is published. [In this work](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL099599), we demonstrate that precipitation is weaker when atmospheric mass is larger for a given surface temperature. Additionally, the rate at which precipitation increases with rising surface temperature is smaller under a larger atmospheric mass compared to a smaller one.
+September 2022: A paper involving me is published in GRL. [In this work](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL099599), we demonstrate that precipitation is weaker when atmospheric mass is larger for a given surface temperature. Additionally, the rate at which precipitation increases with rising surface temperature is smaller under a larger atmospheric mass compared to a smaller one.
 
 
 
