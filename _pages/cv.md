@@ -12,13 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Atmospheric and Oceanic Sciences, Peking University, 2026 (expected)
+  * Feb 2024-now: Visiting PhD student at Max Planck Institute for Astronomy
 * B.S. in Atmospheric Sciences, Sun Yat-sen University, 2021
-
-Work experience
-======
-* Feb 2024-now: Visiting PhD student
-  * Max Planck Institute for Astronomy
-  * Research focus: Chemistry and dynamics of mini-Neptune K2-1b8
 
   
 Skills
@@ -26,7 +21,7 @@ Skills
 * Machine languages: Python, Fortran, and NCL
 * Climate models: 
   * one-dimensional: ATMO, ExoRT, and RRTM
-  * three-dimensional model: CESM, ExoCAM, UM, and SAM
+  * three-dimensional: CESM, ExoCAM, UM, and SAM
 
 Publications
 ======
