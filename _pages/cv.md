@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Atmospheric and Oceanic Sciences, Peking University, 2026 (expected)
+* B.S. in Atmospheric Sciences, Sun Yat-sen University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb 2024-now: Visiting PhD student
+  * Max Planck Institute for Astronomy
+  * Research focus: Chemistry and dynamics of mini-Neptune K2-1b8
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine languages: Python, Fortran, and NCL
+* Climate models: 
+  * one-dimensional: ATMO, ExoRT, and RRTM
+  * three-dimensional model: CESM, ExoCAM, UM, and SAM
 
 Publications
 ======
@@ -47,18 +34,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* LOC of the Distinguished Lectures on planetary sciences at Peking University in both 2022 and 2023
+* Organizer of Planetary Journal Club at Peking University in 2023
+* Counselor for Undergraduate Students at Peking University from 2022
