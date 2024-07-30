@@ -14,7 +14,7 @@ I was born and raised in Guangzhou, a mega city in South China. I earned my bach
 Starting this February, I have been a visiting PhD student at MPIA, where I changed my research focus to a temperate mini-Neptune, K2-18b. I am investigating the chemistry and dynamics of this planet using both 1D and 3D forward models.
 
 
-News
+Updates
 ======
 April 2024: My second first-author paper is out at Science Advances. Typically, people think that higher temperature indicates higher surface precipitation on Earth. However, [in our work](https://www.science.org/doi/10.1126/sciadv.ado2515), we show that this trend reverses in very hot climates (>~320 K) by using climate models of different complexity. The decreasing of precipitation in hot climates will affect the weathering rate, further influencing the carbon-silicate cycle and the habitability of terrestrial planets near the inner edge of the habitable zone.
 
