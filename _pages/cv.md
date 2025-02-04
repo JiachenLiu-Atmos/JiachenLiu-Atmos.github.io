@@ -31,6 +31,6 @@ First-author publications
   
 Service and leadership
 ======
-* LOC of the Distinguished Lectures on planetary sciences at Peking University in both 2022 and 2023
+* LOC of the Distinguished Lectures on Planetary Sciences at Peking University in both 2022 and 2023
 * Organizer of Planetary Journal Club at Peking University in 2023
 * Counselor for Undergraduate Students at Peking University from 2022
