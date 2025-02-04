@@ -16,7 +16,7 @@ Starting last February, I have been a visiting PhD student at MPIA, where I chan
 
 Updates
 ======
-April 2024: My second first-author paper is out at Science Advances. Typically, people think that higher temperature indicates higher surface precipitation on Earth. However, [in our work](https://www.science.org/doi/10.1126/sciadv.ado2515), we show that this trend reverses in very hot climates (>~320 K) by using climate models of different complexity. The decreasing precipitation in hot climates will affect the weathering rate, further influencing the carbon-silicate cycle and the habitability of terrestrial planets near the inner edge of the habitable zone.
+April 2024: A paper led by me is out at Science Advances. Typically, people think that higher temperature indicates higher surface precipitation on Earth. However, [in our work](https://www.science.org/doi/10.1126/sciadv.ado2515), we show that this trend reverses in very hot climates (>~320 K) by using climate models of different complexity. The decreasing precipitation in hot climates will affect the weathering rate, further influencing the carbon-silicate cycle and the habitability of terrestrial planets near the inner edge of the habitable zone.
 
 April 2024: I do a PICO [presentation](https://meetingorganizer.copernicus.org/EGU24/EGU24-3504.html) on the reversal of precipitation trend in hot climates at EGU 2024.
 
