@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my latest CV here.
+
 Education
 ======
 * Ph.D in Atmospheric and Oceanic Sciences, Peking University, 2026 (expected)
