@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my latest [CV](https://drive.google.com/file/d/1qjA7ONTSp65rqgRHt5YNG0AqjP3oaGof/view?usp=sharing) here.
+You can find my latest [CV](https://drive.google.com/file/d/1UXxt065j-scsmhRnz3d2kn9dSkPdTRuC/view?usp=sharing) here.
 
 Education
 ======
