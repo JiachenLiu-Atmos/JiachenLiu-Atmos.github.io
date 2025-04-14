@@ -32,5 +32,7 @@ February 2023: My first first-author paper is published in the Astrophysical Jou
 
 September 2022: A paper involving me is published in Geophysical Research Letters. [In this work](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL099599), we demonstrate that precipitation is weaker when atmospheric mass is larger for a given surface temperature. Additionally, the rate at which precipitation increases with rising surface temperature is smaller under a larger atmospheric mass compared to a smaller one.
 
+September 2021: Start my PhD!
+
 
 
