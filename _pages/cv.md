@@ -33,7 +33,7 @@ First-authored publications
 
 Teaching
 ======
-* Teaching Assistant, Geophysical Fluid Dynamics, Peking University, Sep. 2022--Jan. 2023 & 
+* Teaching Assistant, Geophysical Fluid Dynamics, Peking University, Sep. 2022--Jan. 2023 
 
 
 Service and leadership
