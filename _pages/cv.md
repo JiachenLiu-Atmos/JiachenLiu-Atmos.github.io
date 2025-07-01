@@ -30,7 +30,12 @@ First-authored publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Teaching
+======
+* Teaching Assistant, Geophysical Fluid Dynamics, Peking University, Sep. 2022--Jan. 2023 & 
+
+
 Service and leadership
 ======
 * LOC of the Distinguished Lectures on Planetary Sciences at Peking University in both 2022 and 2023
