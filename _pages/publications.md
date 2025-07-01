@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="font-size: 0.9em;">
+<div style="font-family: Cambria, 'Times New Roman', serif; font-size: 0.9rem;">
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
