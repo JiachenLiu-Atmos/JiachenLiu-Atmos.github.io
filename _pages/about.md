@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-  
 Hi! I am a PhD student at the Department of Atmospheric and Oceanic Sciences, Peking University. Since February 2024, I am working as a visiting student at the Department of Atmospheric Physics of Exoplanets at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany.
 
 I was born and raised in Guangzhou, a mega city in South China. I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. Subsequently, I started to pursue my PhD at Peking University in 2021, shifting my research focus from Earth to more general Earth-like terrestrial planets. My work involved using climate models of varying complexity to study the habitability of these planets.
 
 Starting last February, I have been a visiting PhD student at MPIA, where I changed my research focus to a temperate mini-Neptune, K2-18b. I am investigating the chemistry and dynamics of this planet using both 1D and 3D forward models.
-
 
 Updates
 ======
@@ -40,5 +38,3 @@ February 2023: My first first-author paper is published in the Astrophysical Jou
 September 2022: A paper involving me is published in Geophysical Research Letters. [In this work](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL099599), we demonstrate that precipitation is weaker when atmospheric mass is larger for a given surface temperature. Additionally, the rate at which precipitation increases with rising surface temperature is smaller under a larger atmospheric mass compared to a smaller one.
 
 September 2021: Start my PhD!
-
-
