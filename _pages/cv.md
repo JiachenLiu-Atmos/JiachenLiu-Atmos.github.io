@@ -25,7 +25,7 @@ Skills
   * one-dimensional: ATMO, ExoRT, and RRTM
   * three-dimensional: CESM, ExoCAM, UM, and SAM
 
-First-author publications
+First-authored publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
