@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-family: Calibri, serif; font-size: 0.9rem;">
   
 Hi! I am a PhD student at the Department of Atmospheric and Oceanic Sciences, Peking University. Since February 2024, I am working as a visiting student at the Department of Atmospheric Physics of Exoplanets at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany.
 
@@ -42,5 +41,4 @@ September 2022: A paper involving me is published in Geophysical Research Letter
 
 September 2021: Start my PhD!
 
-</div>
 
