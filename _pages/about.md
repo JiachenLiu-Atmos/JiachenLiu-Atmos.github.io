@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a PhD student at the Department of Atmospheric and Oceanic Sciences, Peking University. Since February 2024, I am working as a visiting student at the Department of Atmospheric Physics of Exoplanets at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany.
+<div style="font-family: Cambria, 'Times New Roman', serif; font-size: 0.9rem;">
+  
+Hi! I am a PhD student at the Department of Atmospheric and Oceanic Sciences, Peking University. Since February 2024, I am working as a visiting student at the Department of Atmospheric Physics of Exoplanets at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany.
 
 I was born and raised in Guangzhou, a mega city in South China. I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. Subsequently, I started to pursue my PhD at Peking University in 2021, shifting my research focus from Earth to more general Earth-like terrestrial planets. My work involved using climate models of varying complexity to study the habitability of these planets.
 
@@ -40,5 +42,5 @@ September 2022: A paper involving me is published in Geophysical Research Letter
 
 September 2021: Start my PhD!
 
-
+</div>
 
