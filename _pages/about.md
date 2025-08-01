@@ -15,7 +15,7 @@ Starting last February, I have been a visiting PhD student at MPIA, where I chan
 
 Updates
 ======
-June 2025: A paper led by me is accepted at Monthly Notices of the Royal Astronomical Society. You can find a preprint version [here](https://arxiv.org/abs/2506.23891). In this study, we perform 3D chemical kinetics simulations of sub-Neptune K2-18b. This is Part I of a series. In Part I, we examine the planet’s atmospheric dynamics and its impact on the transport of passive tracers. The detailed analysis of chemical structures will be presented in Part II, which is coming soon. Stay tuned!
+July 2025: A paper led by me is out at Monthly Notices of the Royal Astronomical Society. [In this study](https://academic.oup.com/mnras/article/541/4/2897/8182193#527501334), we perform 3D chemical kinetics simulations of sub-Neptune K2-18b. This is Part I of a series. In Part I, we examine the planet’s atmospheric dynamics and its impact on the transport of passive tracers. The detailed analysis of chemical structures will be presented in Part II, which is coming soon. Stay tuned!
 
 May 2025: A paper led by me is out at the Astrophysical Journal. [In this study](https://iopscience.iop.org/article/10.3847/1538-4357/adca3c), we thoroughly investigate the formation mechanism of the near-surface atmospheric inversion (NAIV) in hothouse climates, which is a pronounced phenomenon reported in several earlier hothouse climate simulations. We find that lower-tropospheric radiative heating is necessary but not independently sufficient to form the NAIV. Instead, the dynamic heating induced by large-scale subsidence is essential. In addition, we find that surface inversion (SIV, surface cooler than adjacent air) is also a distinct phenomenon in the hothouse climate.
 
