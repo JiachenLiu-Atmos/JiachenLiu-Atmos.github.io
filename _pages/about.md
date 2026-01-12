@@ -15,6 +15,7 @@ From February 2024 to August 2025, I worked as a visiting student at the Departm
 
 Updates
 ======
+Jan 2026: Writing thesis...
 Dec 2025: A very busy month. I attended conferences in Guizhou, Beijing, and Shanghai, and also gave talks at Sun Yat-sen University.
 
 Oct 2025: I gave a BOWIE+ Seminar virtually. 
