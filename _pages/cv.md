@@ -13,8 +13,8 @@ You can find my latest [CV](https://drive.google.com/file/d/1BqOYi4XwGqda2I1yYz5
 
 Education
 ======
-* Ph.D in Atmospheric and Oceanic Sciences, Peking University, 2026 (expected)
-  * Feb 2024-now: Visiting PhD student at Max Planck Institute for Astronomy
+* Ph.D in Atmospheric Sciences, Peking University, 2026 (expected)
+  * Feb 2024-Aug 2025: Visiting PhD student at Max Planck Institute for Astronomy
 * B.S. in Atmospheric Sciences, Sun Yat-sen University, 2021
 
   
