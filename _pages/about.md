@@ -23,6 +23,8 @@ Oct 2025: I gave a BOWIE+ Seminar virtually.
 
 Sep 2025: I went back to Beijing to start the final year of my PhD.
 
+Aug 2025: I visited the University of Oxford and the University of Exeter and gave seminars.
+
 July 2025: A paper led by me was out at Monthly Notices of the Royal Astronomical Society. [In this study](https://academic.oup.com/mnras/article/541/4/2897/8182193#527501334), we perform 3D chemical kinetics simulations of sub-Neptune K2-18b. This is Part I of a series. In Part I, we examine the planet’s atmospheric dynamics and its impact on the transport of passive tracers. The detailed analysis of chemical structures will be presented in Part II, which is coming soon. Stay tuned!
 
 July 2025: I gave a talk at Exoclimes VII and Exocoffee at MPIA.
