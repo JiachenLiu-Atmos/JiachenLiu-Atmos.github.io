@@ -15,7 +15,7 @@ From February 2024 to August 2025, I worked as a visiting student at the Departm
 
 Updates
 ======
-Jan 2026: Writing thesis...
+April 2026: Part II of our K2-18b paper was accepted to MNRAS. The preprint version can be found [here](https://arxiv.org/abs/2604.07987). In this paper, we presented a detailed analysis of the 3D chemical structures on K2-18b, and by comparing our synthetic transmission to JWST observations, we found that K2-18b's interior can be interpreted as a gas-rich mini-Neptune with ~180x solar metallicity. We also constrained a 1D Kzz profile for further use in the 1D models.
 
 Dec 2025: A very busy month. I attended conferences in Guizhou, Beijing, and Shanghai, and also gave talks at Sun Yat-sen University.
 
@@ -25,7 +25,7 @@ Sep 2025: I went back to Beijing to start the final year of my PhD.
 
 Aug 2025: I visited the University of Oxford and the University of Exeter and gave seminars.
 
-July 2025: A paper led by me was out at Monthly Notices of the Royal Astronomical Society. [In this study](https://academic.oup.com/mnras/article/541/4/2897/8182193#527501334), we perform 3D chemical kinetics simulations of sub-Neptune K2-18b. This is Part I of a series. In Part I, we examine the planet’s atmospheric dynamics and its impact on the transport of passive tracers. The detailed analysis of chemical structures will be presented in Part II, which is coming soon. Stay tuned!
+July 2025: A paper led by me was out at Monthly Notices of the Royal Astronomical Society. [In this study](https://academic.oup.com/mnras/article/541/4/2897/8182193#527501334), we perform 3D chemical kinetics simulations of sub-Neptune K2-18b. This is Part I of a series. In Part I, we examine the planet’s atmospheric dynamics and its impact on the transport of passive tracers. 
 
 July 2025: I gave a talk at Exoclimes VII and Exocoffee at MPIA.
 
