@@ -1,0 +1,17 @@
+---
+title: "Three-dimensional transport-induced chemistry on temperate sub-Neptune K2-18b, Part II: the combined effects of atmospheric dynamics and chemical reactions"
+collection: publications
+permalink: /publication/Liu2026
+excerpt: ''
+paperurl: 'https://jiachenliu-atmos.github.io/files/Liu_2026_MNRAS_stag780.pdf'
+venue: "MNRAS"
+date: "2026-04-24"
+citation: 'Liu et al. (2026) ‘Three-dimensional transport-induced chemistry on temperate sub-Neptune K2-18b, Part I: the effects of atmospheric dynamics’, Monthly Notices of the Royal Astronomical Society, 541(4), pp. 2897–2916'
+#Hide publication: False
+---
+[Journal](https://academic.oup.com/mnras/article/549/2/stag780/8662141)
+
+In this paper, we presented a detailed analysis of the 3D chemical structures on K2-18b, and by comparing our synthetic transmission to JWST observations, we found that K2-18b’s interior can be interpreted as a gas-rich mini-Neptune with ~180x solar metallicity. We also constrained a 1D Kzz profile for further use in the 1D models.
+
+
+Abstract: The upper atmospheres of temperate sub-Neptunes are strongly influenced by atmospheric dynamics due to their cool equilibrium temperature and thereby longer chemical time-scales than the atmospheric dynamical time-scales. In this study, we used a three-dimensional (3D) general circulation model to investigate the transport-induced disequilibrium chemistry and vertical mixing on temperate gas-rich mini-Neptunes, using K2-18b as an example. We model K2-18b assuming 180 times solar metallicity and consider it as either a synchronous or an asynchronous rotator, exploring spin-orbit resonances of 2:1, 6:1, and 10:1. We find that the vertical transport affects the chemical structure significantly, making CO$_2$ and CO more abundant (${\sim} 10^{-3}$) in the upper atmosphere compared to the chemical equilibrium abundance (&lt;10$^{-15}$), and horizontal winds further homogenize the chemical composition zonally in this region. Molecular abundances in the photosphere generally agree across different rotation periods. We employ a passive tracer in the model to estimate the one-dimensional (1D) equivalent eddy-diffusion coefficient ($K_{zz}$) of K2-18b, providing a parameter useful for future 1D atmospheric models. Additionally, synthetic transmission spectra generated from our model are compared with the James Webb Space Telescope observations, and we find that our model can provide a comparable fit to the observations. This work offers a 3D perspective on transport-induced chemistry on a temperate sub-Neptune and derives vertical mixing parameters to support 1D modelling.
