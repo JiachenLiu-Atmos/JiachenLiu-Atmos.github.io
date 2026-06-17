@@ -15,6 +15,8 @@ From February 2024 to August 2025, I worked as a visiting student at the Departm
 
 Updates
 ======
+May 2026: I've successfully defended my thesis on 3D disequilibrium chemistry in sub-Neptune atmospheres. Congrats to Dr. Liu!
+
 April 2026: Part II of our K2-18b paper was accepted to MNRAS. The preprint version can be found [here](https://arxiv.org/abs/2604.07987). In this paper, we presented a detailed analysis of the 3D chemical structures on K2-18b, and by comparing our synthetic transmission to JWST observations, we found that K2-18b's interior can be interpreted as a gas-rich mini-Neptune with ~180x solar metallicity. We also constrained a 1D Kzz profile for further use in the 1D models.
 
 Dec 2025: A very busy month. I attended conferences in Guizhou, Beijing, and Shanghai, and also gave talks at Sun Yat-sen University.
