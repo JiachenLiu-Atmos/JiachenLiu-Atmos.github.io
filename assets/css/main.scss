@@ -40,6 +40,187 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+body {
+  color: #ffffff;
+  background:
+    linear-gradient(90deg, rgba(1, 7, 18, 0.74), rgba(1, 7, 18, 0.36)),
+    url("/images/exoplanet-cover.png") center center / cover fixed no-repeat;
+}
+
+body a {
+  color: #9ee7ff;
+}
+
+body a:hover {
+  color: #ffffff;
+}
+
+.masthead {
+  background: rgba(1, 7, 18, 0.74);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+.masthead a,
+.greedy-nav a {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+#main {
+  padding-top: 1em;
+  padding-bottom: 2em;
+}
+
+.page__inner-wrap,
+.sidebar {
+  padding: 1.25em;
+  border: 1px solid rgba(158, 231, 255, 0.2);
+  border-radius: 8px;
+  background: rgba(1, 7, 18, 0.52);
+  box-shadow: 0 18px 45px rgba(1, 7, 18, 0.24);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.page__content,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content p,
+.page__content li,
+.page__content dl,
+.page__content dd,
+.sidebar,
+.sidebar p,
+.sidebar li {
+  color: rgba(255, 255, 255, 0.92);
+}
+
+
+.archive {
+  padding: 1.25em;
+  border: 1px solid rgba(158, 231, 255, 0.2);
+  border-radius: 8px;
+  background: rgba(1, 7, 18, 0.52);
+  box-shadow: 0 18px 45px rgba(1, 7, 18, 0.24);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.archive .page__title {
+  color: #ffffff;
+}
+
+.pub-hero {
+  margin-bottom: 1.4em;
+  padding: 1.4em;
+  border: 1px solid rgba(158, 231, 255, 0.2);
+  border-radius: 8px;
+  background: linear-gradient(135deg, rgba(1, 7, 18, 0.56), rgba(14, 48, 70, 0.42));
+}
+
+.pub-hero .eyebrow {
+  margin: 0 0 0.65em;
+  color: #9ee7ff;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.pub-hero h1 {
+  margin: 0 0 0.35em;
+  color: #ffffff;
+  font-size: 1.8em;
+}
+
+.pub-hero p {
+  max-width: 44rem;
+  color: rgba(255, 255, 255, 0.86);
+}
+
+.pub-button,
+.publication-actions a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.35em;
+  padding: 0.45em 0.8em;
+  border: 1px solid rgba(158, 231, 255, 0.36);
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 0.82em;
+  font-weight: 700;
+  text-decoration: none;
+  background: rgba(158, 231, 255, 0.12);
+}
+
+.pub-button:hover,
+.publication-actions a:hover {
+  color: #061322;
+  background: #9ee7ff;
+  text-decoration: none;
+}
+
+.publication-list {
+  display: grid;
+  gap: 1em;
+}
+
+.publication-card {
+  padding: 1.15em;
+  border: 1px solid rgba(158, 231, 255, 0.18);
+  border-radius: 8px;
+  background: rgba(1, 7, 18, 0.44);
+  box-shadow: 0 12px 30px rgba(1, 7, 18, 0.18);
+}
+
+.publication-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55em;
+  margin-bottom: 0.65em;
+}
+
+.publication-meta span {
+  display: inline-flex;
+  padding: 0.18em 0.55em;
+  border: 1px solid rgba(158, 231, 255, 0.24);
+  border-radius: 999px;
+  color: #9ee7ff;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.publication-card h2 {
+  margin: 0;
+  font-size: 1.05em;
+  line-height: 1.35;
+}
+
+.publication-card h2 a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.publication-card h2 a:hover {
+  color: #9ee7ff;
+  text-decoration: none;
+}
+
+.publication-summary {
+  margin: 0.7em 0 0;
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.publication-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55em;
+  margin-top: 0.9em;
+}
+
 .home-hero {
   position: relative;
   margin: 0 0 1.6em;
@@ -108,15 +289,15 @@
 
 .research-card {
   padding: 1em;
-  border: 1px solid rgba(24, 69, 104, 0.12);
+  border: 1px solid rgba(158, 231, 255, 0.18);
   border-radius: 8px;
-  background: #ffffff;
+  background: rgba(1, 7, 18, 0.48);
   box-shadow: 0 10px 24px rgba(23, 42, 58, 0.06);
 }
 
 .research-card h2 {
   margin: 0.3em 0 0.45em;
-  color: #17324d;
+  color: #ffffff;
   font-size: 1em;
 }
 
@@ -127,7 +308,7 @@
 }
 
 .card-kicker {
-  color: #c65f2f;
+  color: #9ee7ff;
   font-size: 0.72em;
   font-weight: 700;
   text-transform: uppercase;
@@ -136,14 +317,14 @@
 .coordinates {
   margin: 1.6em 0 1.9em;
   padding: 1.2em 1.3em;
-  border-left: 4px solid #3d8a8c;
+  border-left: 4px solid #9ee7ff;
   border-radius: 0 8px 8px 0;
-  background: #f5fbfa;
+  background: rgba(1, 7, 18, 0.44);
 }
 
 .coordinates h2 {
   margin-top: 0;
-  color: #17324d;
+  color: #ffffff;
   font-size: 1.05em;
 }
 
@@ -155,7 +336,7 @@
 }
 
 .coordinates dt {
-  color: #28666e;
+  color: #9ee7ff;
   font-size: 0.72em;
   font-weight: 700;
   text-transform: uppercase;
@@ -168,7 +349,7 @@
 
 .timeline {
   margin-top: 1em;
-  border-left: 2px solid rgba(61, 138, 140, 0.28);
+  border-left: 2px solid rgba(158, 231, 255, 0.36);
 }
 
 .timeline-item {
@@ -193,7 +374,7 @@
 .timeline-date {
   display: inline-block;
   margin-bottom: 0.22em;
-  color: #17324d;
+  color: #ffffff;
   font-size: 0.82em;
   font-weight: 700;
 }
