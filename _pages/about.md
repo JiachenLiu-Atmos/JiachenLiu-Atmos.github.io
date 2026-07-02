@@ -2,53 +2,139 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! I am a PhD student at the Department of Atmospheric and Oceanic Sciences, Peking University. 
+<section class="home-hero">
+  <p class="eyebrow">Planetary atmospheres · climate dynamics · disequilibrium chemistry</p>
+  <h1>Hi, I am Jiachen Liu.</h1>
+  <p class="lead">I study climates and atmospheres beyond Earth, from hothouse terrestrial planets to the temperate mini-Neptune K2-18b.</p>
+  <p>I use 1D and 3D climate, chemistry, and radiative-transfer models to understand how planets look, evolve, and become observable.</p>
+</section>
 
-I was born and raised in Guangzhou, a megacity in South China. I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. Subsequently, I started to pursue my PhD at Peking University in 2021, shifting my research focus from Earth to more general Earth-like terrestrial planets. My work involved using climate models of varying complexity to study the habitability of these planets.
+<section class="research-grid" aria-label="Research highlights">
+  <article class="research-card">
+    <span class="card-kicker">Sub-Neptunes</span>
+    <h2>K2-18b in 3D</h2>
+    <p>Modeling atmospheric dynamics, chemical transport, and synthetic spectra to test what JWST can really tell us.</p>
+  </article>
+  <article class="research-card">
+    <span class="card-kicker">Hot climates</span>
+    <h2>When Wetter Gets Weirder</h2>
+    <p>Investigating why very hot terrestrial planets can break our simple expectations about precipitation and habitability.</p>
+  </article>
+  <article class="research-card">
+    <span class="card-kicker">Model worlds</span>
+    <h2>From 1D to 3D</h2>
+    <p>Connecting simple conceptual models with full atmospheric simulations, because planets rarely stay polite.</p>
+  </article>
+</section>
 
-From February 2024 to August 2025, I worked as a visiting student at the Department of Atmospheric Physics of Exoplanets at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany. At MPIA, I changed my research focus to a temperate mini-Neptune, K2-18b. I investigated the chemistry and dynamics of this planet using both 1D and 3D forward models.
+## About Me
 
-Updates
-======
-May 2026: I've successfully defended my thesis on 3D disequilibrium chemistry in sub-Neptune atmospheres. Congrats to Dr. Liu!
+I am a PhD student at the Department of Atmospheric and Oceanic Sciences, Peking University. I was born and raised in Guangzhou, a megacity in South China.
 
-April 2026: Part II of our K2-18b paper was accepted to MNRAS. The preprint version can be found [here](https://arxiv.org/abs/2604.07987). In this paper, we presented a detailed analysis of the 3D chemical structures on K2-18b, and by comparing our synthetic transmission to JWST observations, we found that K2-18b's interior can be interpreted as a gas-rich mini-Neptune with ~180x solar metallicity. We also constrained a 1D Kzz profile for further use in the 1D models.
+I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. I started my PhD at Peking University in 2021, shifting my research focus from Earth to more general Earth-like terrestrial planets and their habitability.
 
-Dec 2025: A very busy month. I attended conferences in Guizhou, Beijing, and Shanghai, and also gave talks at Sun Yat-sen University.
+From February 2024 to August 2025, I worked as a visiting student at the Department of Atmospheric Physics of Exoplanets at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany. At MPIA, I changed my research focus to the temperate mini-Neptune K2-18b, investigating its chemistry and dynamics using both 1D and 3D forward models.
 
-Oct 2025: I gave a BOWIE+ Seminar virtually. 
+<section class="coordinates">
+  <h2>Research Coordinates</h2>
+  <dl>
+    <div>
+      <dt>Current orbit</dt>
+      <dd>3D disequilibrium chemistry in sub-Neptune atmospheres</dd>
+    </div>
+    <div>
+      <dt>Favorite targets</dt>
+      <dd>K2-18b, hothouse terrestrial planets, tidally locked worlds</dd>
+    </div>
+    <div>
+      <dt>Favorite tools</dt>
+      <dd>Climate models, chemical kinetics, radiative transfer, synthetic observations</dd>
+    </div>
+    <div>
+      <dt>Scientific mood</dt>
+      <dd>Curious, model-driven, and suspicious of overly simple interpretations</dd>
+    </div>
+  </dl>
+</section>
 
-Sep 2025: I went back to Beijing to start the final year of my PhD.
+## Recent Highlights
 
-Aug 2025: I visited the University of Oxford and the University of Exeter and gave seminars.
-
-July 2025: A paper led by me was out at Monthly Notices of the Royal Astronomical Society. [In this study](https://academic.oup.com/mnras/article/541/4/2897/8182193#527501334), we perform 3D chemical kinetics simulations of sub-Neptune K2-18b. This is Part I of a series. In Part I, we examine the planet’s atmospheric dynamics and its impact on the transport of passive tracers. 
-
-July 2025: I gave a talk at Exoclimes VII and Exocoffee at MPIA.
-
-May 2025: A paper led by me was out at the Astrophysical Journal. [In this study](https://iopscience.iop.org/article/10.3847/1538-4357/adca3c), we thoroughly investigate the formation mechanism of the near-surface atmospheric inversion (NAIV) in hothouse climates, which is a pronounced phenomenon reported in several earlier hothouse climate simulations. We find that lower-tropospheric radiative heating is necessary but not independently sufficient to form the NAIV. Instead, the dynamic heating induced by large-scale subsidence is essential. In addition, we find that surface inversion (SIV, surface cooler than adjacent air) is also a distinct phenomenon in the hothouse climate.
-
-April 2025: I gave an invited [talk](https://meetingorganizer.copernicus.org/EGU25/EGU25-4990.html) at EGU 2025.
-
-April 2025: I gave an invited talk virtually at the Climate Sensitivity Journal Club at GFDL.
-
-April 2024: A paper led by me is out at Science Advances. Typically, people think that higher temperature indicates higher surface precipitation on Earth. However, [in our work](https://www.science.org/doi/10.1126/sciadv.ado2515), we show that this trend reverses in very hot climates (>~320 K) by using climate models of different complexity. The decreasing precipitation in hot climates will affect the weathering rate, further influencing the carbon-silicate cycle and the habitability of terrestrial planets near the inner edge of the habitable zone.
-
-April 2024: I did a PICO [presentation](https://meetingorganizer.copernicus.org/EGU24/EGU24-3504.html) on the reversal of precipitation trend in hot climates at EGU 2024.
-
-February 2024: I arrived at Heidelberg! Start to work on a "real" exoplanet K2-18b.
-
-June 2023: A new paper involving me as a collaborator was published in Nature Astronomy. [In this work](https://www.nature.com/articles/s41550-023-02015-8), we use a cloud-permitting model to simulate the explicit convection of 1:1 tidally locked rocky planets orbiting around low-mass stars with high resolution (4 km x 4 km).
-
-April 2023: I gave an oral [presentation](https://meetingorganizer.copernicus.org/EGU23/EGU23-2306.html) on the effects of surface gravity at EGU 2023.
-
-February 2023: My first first-author paper was published in the Astrophysical Journal. [In this work](https://iopscience.iop.org/article/10.3847/1538-4357/aca965), we investigate the effects of surface gravity on water cloud behavior and planetary climate using small-domain cloud-resolving simulations. We also calculate the transmission spectra based on our simulation results to show how gravity and clouds affect the detectability of molecules on Earth-like planets.
-
-September 2022: A paper involving me was published in Geophysical Research Letters. [In this work](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL099599), we demonstrate that precipitation is weaker when atmospheric mass is larger for a given surface temperature. Additionally, the rate at which precipitation increases with rising surface temperature is lower under a larger atmospheric mass compared to a smaller one.
-
-September 2021: Start my PhD!
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">May 2026</span>
+    <p>I successfully defended my thesis on 3D disequilibrium chemistry in sub-Neptune atmospheres. Congrats to Dr. Liu!</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">April 2026</span>
+    <p>Part II of our K2-18b paper was accepted to MNRAS. The preprint version can be found <a href="https://arxiv.org/abs/2604.07987">here</a>. We presented a detailed analysis of the 3D chemical structures on K2-18b, compared synthetic transmission spectra with JWST observations, and found that K2-18b's interior can be interpreted as a gas-rich mini-Neptune with ~180x solar metallicity.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">Dec 2025</span>
+    <p>A very busy month. I attended conferences in Guizhou, Beijing, and Shanghai, and also gave talks at Sun Yat-sen University.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">Oct 2025</span>
+    <p>I gave a BOWIE+ Seminar virtually.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">Sep 2025</span>
+    <p>I went back to Beijing to start the final year of my PhD.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">Aug 2025</span>
+    <p>I visited the University of Oxford and the University of Exeter and gave seminars.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">July 2025</span>
+    <p>A paper led by me was published in Monthly Notices of the Royal Astronomical Society. <a href="https://academic.oup.com/mnras/article/541/4/2897/8182193#527501334">In this study</a>, we perform 3D chemical kinetics simulations of sub-Neptune K2-18b. This is Part I of a series, examining atmospheric dynamics and their impact on the transport of passive tracers.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">July 2025</span>
+    <p>I gave a talk at Exoclimes VII and Exocoffee at MPIA.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">May 2025</span>
+    <p>A paper led by me was published in the Astrophysical Journal. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/adca3c">In this study</a>, we investigated the formation mechanism of the near-surface atmospheric inversion in hothouse climates.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">April 2025</span>
+    <p>I gave an invited <a href="https://meetingorganizer.copernicus.org/EGU25/EGU25-4990.html">talk</a> at EGU 2025 and an invited virtual talk at the Climate Sensitivity Journal Club at GFDL.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">April 2024</span>
+    <p>A paper led by me was published in Science Advances. <a href="https://www.science.org/doi/10.1126/sciadv.ado2515">In our work</a>, we show that the relation between surface temperature and precipitation reverses in very hot climates (&gt;~320 K).</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">April 2024</span>
+    <p>I did a PICO <a href="https://meetingorganizer.copernicus.org/EGU24/EGU24-3504.html">presentation</a> on the reversal of precipitation trend in hot climates at EGU 2024.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">February 2024</span>
+    <p>I arrived at Heidelberg and started to work on a "real" exoplanet, K2-18b.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">June 2023</span>
+    <p>A paper involving me as a collaborator was published in Nature Astronomy. <a href="https://www.nature.com/articles/s41550-023-02015-8">In this work</a>, we used a cloud-permitting model to simulate explicit convection on 1:1 tidally locked rocky planets orbiting low-mass stars.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">April 2023</span>
+    <p>I gave an oral <a href="https://meetingorganizer.copernicus.org/EGU23/EGU23-2306.html">presentation</a> on the effects of surface gravity at EGU 2023.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">February 2023</span>
+    <p>My first first-author paper was published in the Astrophysical Journal. <a href="https://iopscience.iop.org/article/10.3847/1538-4357/aca965">In this work</a>, we investigated how surface gravity affects water clouds, planetary climate, and transmission spectra.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">September 2022</span>
+    <p>A paper involving me was published in Geophysical Research Letters. <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022GL099599">In this work</a>, we demonstrated that precipitation is weaker when atmospheric mass is larger for a given surface temperature.</p>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">September 2021</span>
+    <p>Started my PhD!</p>
+  </div>
+</div>
