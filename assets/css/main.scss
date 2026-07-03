@@ -66,6 +66,28 @@ body a:hover {
   color: rgba(255, 255, 255, 0.9);
 }
 
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links {
+  background: transparent;
+}
+
+.greedy-nav .hidden-links {
+  border: 1px solid rgba(158, 231, 255, 0.24);
+  background: rgba(1, 7, 18, 0.92);
+  box-shadow: 0 16px 35px rgba(1, 7, 18, 0.28);
+}
+
+.greedy-nav button {
+  background-color: rgba(158, 231, 255, 0.18);
+  color: #ffffff;
+}
+
+.greedy-nav a:hover,
+.masthead a:hover {
+  color: #9ee7ff;
+}
+
 #main {
   padding-top: 1em;
   padding-bottom: 2em;
