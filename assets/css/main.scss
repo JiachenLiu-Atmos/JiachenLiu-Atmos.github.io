@@ -112,6 +112,16 @@ body a:hover {
 .page__inner-wrap,
 .sidebar {
   padding: 1.25em;
+}
+
+@media screen and (min-width: 1024px) {
+  .sidebar {
+    padding-top: 4.5em;
+  }
+}
+
+.page__inner-wrap,
+.sidebar {
   border: 1px solid rgba(158, 231, 255, 0.2);
   border-radius: 8px;
   background: rgba(1, 7, 18, 0.52);
