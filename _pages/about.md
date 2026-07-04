@@ -34,26 +34,28 @@ redirect_from:
 
 ## About Me
 
-I am an upcoming Boya Postdoctoral Fellow at Peking University. I recently completed my PhD in the Department of Atmospheric and Oceanic Sciences at Peking University.
+I am an upcoming Boya Postdoctoral Fellow at Peking University. I recently completed my PhD also at Peking University.
 
-I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. I started my PhD at Peking University in 2021, shifting my research focus from Earth to more general Earth-like terrestrial planets and their habitability.
+I am trained as an atmospheric scientist, and I now apply that perspective to exoplanetary atmospheres and climates. I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. 
 
-From February 2024 to August 2025, I worked as a visiting student at the Department of Atmospheric Physics of Exoplanets at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany. At MPIA, I changed my research focus to the temperate mini-Neptune K2-18b, investigating its chemistry and dynamics using both 1D and 3D forward models.
+I started my PhD at Peking University in 2021, shifting my research focus from Earth to more general Earth-like terrestrial planets and their habitability.
+
+From February 2024 to August 2025, I worked as a visiting student at the Department of Atmospheric Physics of Exoplanets at the Max Planck Institute for Astronomy (MPIA) in Heidelberg, Germany. At MPIA, I changed my research focus to the temperate mini-Neptune K2-18b, investigating its chemistry and dynamics using both 1D and 3D forward models. 
 
 <section class="coordinates">
   <h2>Research Coordinates</h2>
   <dl>
     <div>
       <dt>Current orbit</dt>
-      <dd>3D disequilibrium chemistry in sub-Neptune atmospheres</dd>
+      <dd>3D convection and clouds in sub-Neptune atmospheres</dd>
     </div>
     <div>
       <dt>Favorite targets</dt>
-      <dd>K2-18b, hothouse terrestrial planets, tidally locked worlds</dd>
+      <dd>Sub-Neptunes, hothouse terrestrial planets</dd>
     </div>
     <div>
       <dt>Favorite tools</dt>
-      <dd>Climate models, chemical kinetics, radiative transfer, synthetic observations</dd>
+      <dd>Climate models, chemical kinetics, radiative transfer</dd>
     </div>
     <div>
       <dt>Scientific mood</dt>
@@ -64,6 +66,11 @@ From February 2024 to August 2025, I worked as a visiting student at the Departm
 
 ## Recent Highlights
 
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">June 2026</span>
+    <p>My thesis has been awarded outstanding thesis award by Peking University (1 per department).</p>
+  </div>
 <div class="timeline">
   <div class="timeline-item">
     <span class="timeline-date">May 2026</span>
