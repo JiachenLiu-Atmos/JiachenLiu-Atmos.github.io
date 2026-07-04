@@ -34,7 +34,7 @@ redirect_from:
 
 ## About Me
 
-I am an upcoming Boya Postdoctoral Fellow at Peking University. I recently completed my PhD in the Department of Atmospheric and Oceanic Sciences at Peking University, and I was born and raised in Guangzhou, a megacity in South China.
+I am an upcoming Boya Postdoctoral Fellow at Peking University. I recently completed my PhD in the Department of Atmospheric and Oceanic Sciences at Peking University.
 
 I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. I started my PhD at Peking University in 2021, shifting my research focus from Earth to more general Earth-like terrestrial planets and their habitability.
 
