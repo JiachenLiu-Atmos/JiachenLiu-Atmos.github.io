@@ -34,7 +34,7 @@ redirect_from:
 
 ## About Me
 
-I am an upcoming Boya Postdoctoral Fellow at Peking University. I recently completed my PhD also at Peking University.
+I am a Boya Postdoctoral Fellow at Peking University. I recently completed my PhD at Peking University.
 
 I am trained as an atmospheric scientist, and I now apply that perspective to exoplanetary atmospheres and climates. I earned my bachelor's degree from the School of Atmospheric Sciences at Sun Yat-sen University, where I first researched the effects of doubling CO2 on Earth's temperature structure using a simple one-dimensional climate model. 
 
@@ -69,7 +69,7 @@ From February 2024 to August 2025, I worked as a visiting student at the Departm
 <div class="timeline">
   <div class="timeline-item">
     <span class="timeline-date">June 2026</span>
-    <p>My thesis has been awarded outstanding thesis award by Peking University (1 per department).</p>
+    <p>My thesis has been awarded the Outstanding Thesis Award by Peking University (1 per department).</p>
   </div>
 <div class="timeline">
   <div class="timeline-item">
