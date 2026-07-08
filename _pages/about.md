@@ -10,18 +10,18 @@ redirect_from:
 <section class="home-hero">
   <p class="eyebrow">Planetary atmospheres · climate dynamics · disequilibrium chemistry</p>
   <h1>Hi, I am Jiachen Liu.</h1>
-  <p class="lead">I study climates and atmospheres beyond Earth, from hothouse terrestrial planets to the temperate mini-Neptune K2-18b.</p>
+  <p class="lead">I study climates and atmospheres beyond Earth, from hothouse terrestrial planets to mini-Neptunes.</p>
   <p>I use 1D and 3D climate, chemistry, and radiative-transfer models to understand how planets look, evolve, and become observable.</p>
 </section>
 
 <section class="research-grid" aria-label="Research highlights">
   <article class="research-card">
-    <span class="card-kicker">Sub-Neptunes</span>
-    <h2>K2-18b in 3D</h2>
+    <span class="card-kicker">Exoplanets</span>
+    <h2>Mini-Neptunes in 3D</h2>
     <p>Modeling atmospheric dynamics, chemical transport, and synthetic spectra to test what JWST can really tell us.</p>
   </article>
   <article class="research-card">
-    <span class="card-kicker">Hot climates</span>
+    <span class="card-kicker">Hothouse climates</span>
     <h2>When Wetter Gets Weirder</h2>
     <p>Investigating why very hot terrestrial planets can break our simple expectations about precipitation and habitability.</p>
   </article>
