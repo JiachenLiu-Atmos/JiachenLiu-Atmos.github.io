@@ -13,7 +13,7 @@ You can find my latest [CV](https://drive.google.com/file/d/1BqOYi4XwGqda2I1yYz5
 
 Employment
 ======
-* Boya Postdoctoral Fellow, Peking University, 2026-now
+* Boya Postdoctoral Fellow, Peking University, July 2026-now
 
 
 Education
