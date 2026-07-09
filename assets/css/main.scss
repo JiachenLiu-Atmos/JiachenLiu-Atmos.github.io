@@ -170,6 +170,14 @@ body a:hover {
     display: inline-block;
     text-align: left;
   }
+
+  .page,
+  .archive {
+    float: right;
+    width: calc(100% - 280px);
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 
@@ -181,12 +189,6 @@ body a:hover {
   box-shadow: 0 18px 45px rgba(1, 7, 18, 0.24);
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
-}
-
-@media screen and (min-width: 1280px) {
-  .archive {
-    width: calc(100% - 280px);
-  }
 }
 
 .archive .page__title {
