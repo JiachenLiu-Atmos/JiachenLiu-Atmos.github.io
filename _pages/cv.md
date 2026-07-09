@@ -19,7 +19,7 @@ Employment
 Education
 ======
 * Ph.D. in Atmospheric Sciences, Peking University, 2026
-  * Feb 2024-Aug 2025: Visiting PhD student at Max Planck Institute for Astronomy
+  * Feb 2024-Aug 2025: Visiting Ph.D. student at Max Planck Institute for Astronomy
 * B.S. in Atmospheric Sciences, Sun Yat-sen University, 2021
 
   
