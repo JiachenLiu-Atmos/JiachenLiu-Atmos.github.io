@@ -11,9 +11,14 @@ redirect_from:
 
 You can find my latest [CV](https://drive.google.com/file/d/1BqOYi4XwGqda2I1yYz5-Z1_g_BYhiZDH/view?usp=sharing) here.
 
+Employment
+======
+* Boya Postdoctoral Fellow, Peking University, 2026-now
+
+
 Education
 ======
-* Ph.D in Atmospheric Sciences, Peking University, 2026 (expected)
+* Ph.D. in Atmospheric Sciences, Peking University, 2026
   * Feb 2024-Aug 2025: Visiting PhD student at Max Planck Institute for Astronomy
 * B.S. in Atmospheric Sciences, Sun Yat-sen University, 2021
 
@@ -38,6 +43,6 @@ Teaching
 
 Service and leadership
 ======
-* LOC of the Distinguished Lectures on Planetary Sciences at Peking University in both 2022 and 2023
-* Organizer of Planetary Journal Club at Peking University in 2023
-* Counselor for Undergraduate Students at Peking University from 2022
+* LOC of the Distinguished Lectures on Planetary Sciences at Peking University in 2022, 2023, and 2024
+* Organizer of Planetary Journal Club at Peking University in 2023 and 2026
+* Counselor for Undergraduate Students at Peking University in 2022 and 2023
