@@ -19,7 +19,7 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.email %}
-      <p class="author__email"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i><span itemprop="email">{{ author.email | escape }}</span></p>
+      <p class="author__email"><span itemprop="email">{{ author.email | escape }}</span></p>
     {% endif %}
   </div>
 

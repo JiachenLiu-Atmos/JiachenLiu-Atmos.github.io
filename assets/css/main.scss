@@ -525,9 +525,14 @@ body a:hover {
   }
 }
 
-/* Show a selectable email address below the author bio. */
+/* Keep the bio and email in separate, evenly spaced paragraphs. */
+.sidebar .author__bio {
+  margin-bottom: 0;
+}
+
 .sidebar .author__email {
-  margin: 0.5em 0 0;
+  margin: 0.75em 0 1.25em;
+  line-height: 1.5;
   overflow-wrap: anywhere;
   -webkit-user-select: text;
   user-select: text;

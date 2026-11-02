@@ -25,7 +25,7 @@ author:
   name             : "Jiachen Liu"
   pronouns         : # example: "she/her"  
   bio              : "Boya Postdoctoral Fellow at Peking University"
-  location         : "Earth"
+  location         :
   employer         : #"Red Brick University"
   uri              : #"https://jiachenliu-atmos.github.io/"# URL
   email            : "jiachen.liu@pku.edu.cn" 
