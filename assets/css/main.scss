@@ -525,3 +525,10 @@ body a:hover {
   }
 }
 
+/* Show a selectable email address below the author bio. */
+.sidebar .author__email {
+  margin: 0.5em 0 0;
+  overflow-wrap: anywhere;
+  -webkit-user-select: text;
+  user-select: text;
+}
