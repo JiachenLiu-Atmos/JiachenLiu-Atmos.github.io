@@ -525,13 +525,13 @@ body a:hover {
   }
 }
 
-/* Keep the bio and email in separate, evenly spaced paragraphs. */
+/* Keep the email below the bio, with one line of space after it. */
 .sidebar .author__bio {
   margin-bottom: 0;
 }
 
 .sidebar .author__email {
-  margin: 0.75em 0 1.25em;
+  margin: 0 0 1.5em;
   line-height: 1.5;
   overflow-wrap: anywhere;
   -webkit-user-select: text;
