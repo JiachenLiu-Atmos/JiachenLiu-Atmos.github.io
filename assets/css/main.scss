@@ -485,3 +485,43 @@ body a:hover {
     grid-template-columns: 1fr;
   }
 }
+
+/* Keep author links above the glass page panels. */
+.sidebar {
+  z-index: 20;
+}
+
+.sidebar .author__urls {
+  z-index: 30;
+}
+
+@media screen and (max-width: 1023px) {
+  .sidebar {
+    position: relative;
+  }
+}
+
+/* Match the Follow dropdown to the site's dark theme. */
+@media screen and (max-width: ($large - 1px)) {
+  .sidebar .author__urls {
+    background: #061322;
+    border-color: #9ee7ff;
+  }
+
+  .sidebar .author__urls a {
+    color: #ffffff;
+  }
+
+  .sidebar .author__urls a:hover {
+    color: #9ee7ff;
+  }
+
+  .sidebar .author__urls::before {
+    border-color: #9ee7ff transparent;
+  }
+
+  .sidebar .author__urls::after {
+    border-color: #061322 transparent;
+  }
+}
+
